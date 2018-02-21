@@ -2,3 +2,5 @@ Adding changes for branch2
 
 Fixing conflict
 Adding changes for branch1
+
+Adding changes for branch3
